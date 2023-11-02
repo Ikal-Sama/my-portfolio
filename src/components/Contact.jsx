@@ -14,10 +14,10 @@ const Contact = () => {
               <p>Message me on how you feel about my porfolio and feel free to critisize, i am also accepting projects.</p>
               <p className='text-xl mb-5 mt-2'>You can also contact me here..</p>
               <div className='grid grid-cols-4 gap-10 text-sky-500'>
-                <AiOutlineFacebook size={30}  className='bg-white shadow-md'/>
-                <AiOutlineLinkedin size={30} className='bg-white shadow-md'/>
-                <AiOutlineGoogle size={30} className='bg-white shadow-md'/>
-                <AiOutlineInstagram size={30}  className='bg-white shadow-md'/>
+                <AiOutlineFacebook size={30}  className='bg-white shadow-md '/>
+                <AiOutlineLinkedin size={30} className='bg-white shadow-md '/>
+                <AiOutlineGoogle size={30} className='bg-white shadow-md '/>
+                <AiOutlineInstagram size={30}  className='bg-white shadow-md '/>
               </div>
             </div>
             <form action="https://getform.io/f/22da7cd3-2acb-46eb-a522-696e13ac6f8a" method='POST'
