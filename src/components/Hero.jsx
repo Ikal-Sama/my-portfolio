@@ -13,7 +13,7 @@ const Hero = () => {
                 <p className='my-3'>A BSIT Graduate and a front-end developer
                 , I am a dedicated and enthusiastic individual looking to kickstart my career in the field of information technology. With a strong academic background in various IT areas, including MS Office and Computer Servicing, I am eager to contribute to an IT team and grow professionally. Throughout my academic journey, honing my communication and problem-solving skills. I am a quick learner. Seeking an entry-level IT position, I am excited to apply my theoretical knowledge and contribute to the success of an innovative organization.</p>
                <a href='../assets/DanielJhonBancale-Resume-2023.docx' download>
-                 <button className='w-[200px] bg-sky-300 py-3 text-black font-medium rounded-md hover:bg-white text-sky-300'>Download my CV</button>
+                 <button className='w-[200px] bg-sky-300 py-3 text-black font-medium rounded-md hover:bg-white hover:text-sky-300'>Download my CV</button>
                </a>
             </div>
         </div>

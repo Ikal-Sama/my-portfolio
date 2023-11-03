@@ -16,7 +16,7 @@ const Projects = () => {
 
             <div className='flex flex-col w-full shadow-md p-4 my-4 rounded-lg shadow-gray-500 bg-white hover:scale-105 duration-200'>
             <a href="https://ikal-sama.github.io/react-agency/"><img src={reactAgency} alt="" className='rounded-md' /></a>
-                <h2 className='text-center text-2xl p-2 md:text-xl text-black font-bold'>Digital-Agency</h2>
+                <h2 className='text-center text-2xl p-2 md:text-xl text-black font-bold'>Digital-Financing Landing Page</h2>
                 <p className='text-sm text-black'>A digital financing website is an online platform designed to facilitate financial transactions, investments, and lending activities in a digital, paperless, and convenient manner. These websites are built to cater to a wide range of financial needs, from personal finance management to business funding and investment opportunities.</p>
                 <p className='text-l font-bold text-black'>Technology Use:</p>
                 <span className='text-black'>ReactJS, TailwindCss</span>
