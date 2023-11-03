@@ -14,16 +14,16 @@ const Navbar = () => {
         <h1 className='text-sky-300 font-bold text-2xl'>DANIEL.</h1>
         <div className='md:flex hidden'>
             <ul className='flex gap-10 '>
-            <li className='p-4 text-l  cursor-pointer'><Link to='home' spy={true} 
+            <li className='p-4 text-l  cursor-pointer hover:text-sky-300'><Link to='home' spy={true} 
                 smooth={true} 
                 duration={500} >About</Link></li>
-                <li className='p-4 text-l  cursor-pointer'><Link to='skills' spy={true} 
+                <li className='p-4 text-l  cursor-pointer hover:text-sky-300'><Link to='skills' spy={true} 
                 smooth={true} 
                 duration={500} >Skills</Link></li>
-                <li className='p-4 text-l  cursor-pointer'><Link to='projects' spy={true} 
+                <li className='p-4 text-l  cursor-pointer hover:text-sky-300'><Link to='projects' spy={true} 
                 smooth={true} 
                 duration={500} >Projects</Link></li>
-                <li className='p-4 text-l  cursor-pointer'><Link to='contact' spy={true} 
+                <li className='p-4 text-l  cursor-pointer hover:text-sky-300'><Link to='contact' spy={true} 
                 smooth={true} 
                 duration={500} >Contact</Link></li>
             </ul>
